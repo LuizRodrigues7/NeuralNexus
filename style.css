@@ -18,6 +18,7 @@
         height: 4rem;
         display: flex;
         justify-content: space-around;
+        align-items: center;
     }
 
     .navbar-img{
@@ -26,12 +27,34 @@
     }
     
     .navbar-img-container{
-        height: 65px;
         position: relative;
-        right: 4rem;
-        bottom: 2px;
+        right: 2rem;
+        align-items: left;
     }
 
-
+    .navbar-list{
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        gap: 15px;
+    }
     
+    .link-item{
+        color: #fff;
+        text-decoration: none;
+    }
+
+    /* Main */
+    .whatis-title-container{
+        background-color: black;
+        width: 21rem;
+        border-radius: 16px;
+        margin-top: 20px;
+    }
+    .whatis-title{
+        color: #fff;
+        font-size: 27px;
+        margin-left: 9px;
+    }
 }
