@@ -22,14 +22,16 @@
     }
 
     .navbar-img{
-        width: 70px;
-        height: 70px;
+        width: 120px;
+        height: 120px;
+        
     }
     
     .navbar-img-container{
         position: relative;
-        right: 2rem;
+        right: 50px;
         align-items: left;
+        margin-top: 3px;
     }
 
     .navbar-list{
@@ -61,7 +63,7 @@
     }
 
     .text-1-container{
-        font-size: 19px;
+        font-size: 17px;
         margin-top: 20px;
         display: grid;
         justify-content: center;
@@ -81,8 +83,73 @@
         width: 200px;
         height: 200px;
         margin-top: 20px;
+        margin-bottom: 1rem;
         border: 4px solid #6D15E1;
     }
 
+    .list-ia-type-container{
+        margin-left: 2rem; 
+        font-size: 17px;
+    }
+
+    .list-1{
+        margin-left: 40px;
+        text-decoration: underline;
+    }
+
+    footer{
+        background-color: #6D15E1;
+    }
+
+    .img-footer-container{
+        display: grid;
+        justify-content: center;
+    }
+
+    .img-footer{
+        width: 120px;
+        height: 120px;
+        position: relative;
+        top: 3px;
+    }
+
+    .black-line-footer{
+        margin-bottom: 15px;
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+
+    .footer-list{
+        display: grid;
+        list-style: none;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .footer-list-item{
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
     
-}
+    .footer-list-link{
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .footer-list-link:hover{
+        color: #000;
+        transition: 0.1s ease-out;
+        font-weight: 700;
+    }
+
+    .p-footer-aboutus-container{
+        display: grid;
+        justify-content: center;
+    }
+    
+    .p-footer-aboutus{
+        width: 23rem;
+        color: #fff;
+        text-align: justify;    
+    }
+    }
