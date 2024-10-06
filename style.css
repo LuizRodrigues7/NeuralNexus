@@ -87,7 +87,8 @@
         border: 4px solid #6D15E1;
     }
 
-    .list-ia-type-container{
+    .list-ia-type-container{ 
+        .list-ia-type-container{
         margin-left: 2rem; 
         font-size: 17px;
     }
@@ -151,5 +152,6 @@
         width: 23rem;
         color: #fff;
         text-align: justify;    
+    }
     }
     }
