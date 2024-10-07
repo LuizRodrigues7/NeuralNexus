@@ -46,4 +46,26 @@
         color: #fff;
         text-decoration: none;
     }
+
+    .sugestions-title-container{
+        background-color: #6D15E1;
+        width: 21rem;
+        border-radius: 16px;
+        margin-top: 32px;
+        text-align: center;
+        margin-left: 3rem;
+    }
+
+    .sugestions-title{
+        color: white;
+        font-size: 12px;
+    }
+
+    .ia-1{
+        width: 170px;
+        margin-top: 16px;
+        margin-left: 16px;
+        border:solid #6D15E1;
+        border-radius: 1rem;
+    }
 }
