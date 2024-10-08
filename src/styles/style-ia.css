@@ -61,11 +61,51 @@
         font-size: 12px;
     }
 
-    .ia-1{
-        width: 170px;
-        margin-top: 16px;
-        margin-left: 16px;
+    .ia-1-container{
+        padding: 20px;
+        display: flex;
+    }
+
+    .img-ia-1{
+        width: 150px;
         border:solid #6D15E1;
-        border-radius: 1rem;
+        border-radius: 16px;
+        margin-right: 16px;
+    }
+       
+    .img-ia-2{
+        width: 150px;
+        border:solid #6D15E1;
+        border-radius: 16px;
+        margin-right: 16px;
+    }
+
+    .ia-2-container{
+        padding: 20px;
+        display: flex;
+    }
+
+    .img-ia-3{
+        width: 150px;
+        border:solid #6D15E1;
+        border-radius: 16px;
+        margin-right: 16px;
+    }
+
+    .ia-3-container{
+        padding: 20px;
+        display: flex;
+    }
+
+    .img-ia-4{
+        width: 150px;
+        border:solid #6D15E1;
+        border-radius: 16px;
+        margin-right: 16px;
+    }
+
+    .ia-4-container{
+        padding: 20px;
+        display: flex;
     }
 }
