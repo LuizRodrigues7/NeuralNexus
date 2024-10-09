@@ -88,13 +88,99 @@
     }
 
     .list-ia-type-container{ 
-        margin-left: 2rem; 
+        margin-left: 20px;
+        margin-right: 20px; 
         font-size: 17px;
     }
 
     .list-1{
         margin-left: 40px;
         text-decoration: underline;
+    }
+
+    .beneficios-title-container{
+        background-color: #6D15E1;
+        width: 21rem;
+        border-radius: 16px;
+        text-align: center;
+        margin-left: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .beneficios-title{
+        color: #fff;
+        font-size: 23px;
+        margin-left: 9px;
+    }
+
+    .beneficios-text{
+        margin-left: 20px; 
+        font-size: 17px;
+    }
+
+    .beneficios-text-2{
+        text-align: justify; 
+        font-size: 20px;
+    }
+
+    .beneficios-list{
+        margin-left: 40px;
+        margin-right: 25px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .challenge-title-container{
+        background-color: #6D15E1;
+        width: 21rem;
+        border-radius: 1rem;
+        text-align: center;
+        margin-left: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .challenge-title{
+        color: #fff;
+        font-size: 23px;
+    }
+
+    .challenge-text{
+        margin-left: 20px; 
+        font-size: 17px;
+        margin-bottom: 1rem;
+    }
+
+    .challenge-list{
+        margin-left: 40px;
+        margin-right: 25px;
+        margin-bottom: 1rem;
+    }
+
+    .finalizacao-title{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        text-align: left;
+    }
+
+    .finalizacao-text{
+        margin-left: 1rem;
+        margin-top: 1rem;
+        margin-right: 1rem;
+        font-size: 17px
+    }
+
+    .next-page-button{
+        background-color: #6D15E1;
+        width: 120px;
+        border-radius: 1rem;
+        margin-left: 9rem;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .next-page{
+        width: 60px;
+        margin-left: 30px;
     }
 
     footer{
