@@ -67,6 +67,11 @@
         margin-top: 10px;
     }
 
+    .channel-name{
+        margin-top: 3px;
+        font-size: 20px;
+    }
+
     footer{
         background-color: #6D15E1;
         margin-top: 1rem;
